@@ -14,6 +14,9 @@
  - need create a job in admin section of EspoCRM 
  - add www-data to smsd group with 'sudo useradd –G smsd www-data'
 
+# issues
+ - certainly somes char encoding  
+
 # requirements
  - a linux with smstools3 installed and working
 
