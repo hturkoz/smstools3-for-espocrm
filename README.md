@@ -20,6 +20,6 @@
 # requirements
  - a linux with smstools3 installed and working
 
-# licences
+# license
  - [see EspoCRM licence](https://github.com/espocrm/espocrm)
  - EspoCRM is published under the GNU GPLv3
