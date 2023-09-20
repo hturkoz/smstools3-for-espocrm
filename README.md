@@ -2,7 +2,7 @@
  Send and Receive sms with Smstools3 for linux with espocrm.
 
 # important
- For expert only
+ For expert only, this is a base for programmers
 
 # features
  - Send sms from any stream with '#sms hello espocrm' (key is '#sms')
