@@ -1,6 +1,6 @@
 {
-    "name": "Smstools3 for espocrm",
-    "description": "Send and Receive sms with Smstools3 for linux with espocrm.",
+    "name": "Smstools3 for EspoCRM",
+    "description": "Send and Receive sms with Smstools3 for linux with EspoCRM.",
     "author": "Hanefi Turkoz",
     "php": [
         ">=8.0"
