@@ -1,0 +1,5 @@
+{
+    "SmsIncoming":{
+        "jobClassName": "Espo\\Modules\\SmsProviders\\Jobs\\SmsIncoming"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Smstools3 for espocrm",
+    "description": "Send and Receive sms with Smstools3 for linux with espocrm.",
+    "author": "Hanefi Turkoz",
+    "php": [
+        ">=8.0"
+    ],
+    "acceptableVersions": [
+        ">=8.0.0"
+    ],
+    "version": "1.0.0",
+    "skipBackup": true,
+    "releaseDate": "2023-09-20"
+}

@@ -1,0 +1,5 @@
+{
+    "Smstools3": {
+        "senderClassName": "Espo\\Modules\\Smstools3\\Smstools3\\Smstools3Sender"
+    }
+}

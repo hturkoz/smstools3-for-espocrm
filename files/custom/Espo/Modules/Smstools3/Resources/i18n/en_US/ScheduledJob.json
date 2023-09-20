@@ -1,0 +1,7 @@
+{
+   "options": { 
+       "job": { 
+            "Smstools3Incoming": "Smstools3 for linux check incoming" 
+       }
+   }
+}

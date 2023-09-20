@@ -1,0 +1,15 @@
+{
+    "view": "views/admin/integrations/edit",
+    "fields": {
+        "basePath": {
+            "type": "varchar",
+            "maxLength": 100,
+            "required": true
+        },
+        "smstools3Test": {
+            "type": "bool",
+            "required": true,
+            "default": false
+        }
+    }
+}
