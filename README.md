@@ -5,8 +5,8 @@
  For expert only
 
 # features
- Send sms from any stream with '#sms hello espocrm' (key is '#sms')
- Receive sms to a 'entity' (need re-working)
+ - Send sms from any stream with '#sms hello espocrm' (key is '#sms')
+ - Receive sms to a 'entity' (need re-working)
 
 # todo before work
  - mount --bind /var/spool/sms /var/www/html/public_html/data/smsd
