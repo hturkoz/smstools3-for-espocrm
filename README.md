@@ -18,7 +18,7 @@
  - certainly somes char encoding  
 
 # requirements
- - a linux with smstools3 installed and working
+ - a linux with [smstools3](http://smstools3.kekekasvi.com) installed and working
 
 # license
  - [see EspoCRM licence](https://github.com/espocrm/espocrm)
