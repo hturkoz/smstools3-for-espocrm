@@ -11,6 +11,7 @@
 # todo before work
  - path in integration setting : data/smsd 
  - mount --bind /var/spool/sms /var/www/html/public_html/data/smsd
+ - make this mount --bind command permanent in fstab (!?)
  - need create a job in admin section of [EspoCRM](https://github.com/espocrm/espocrm) 
  - add www-data to smsd group with 'sudo useradd –G smsd www-data'
 
