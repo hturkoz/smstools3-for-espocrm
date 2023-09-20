@@ -9,6 +9,7 @@
  - Receive sms to a 'entity' (need re-working)
 
 # todo before work
+ - path in integration setting : data/smsd 
  - mount --bind /var/spool/sms /var/www/html/public_html/data/smsd
  - need create a job in admin section of espocrm 
  - add www-data to smsd group with 'sudo useradd –G smsd www-data'
