@@ -27,7 +27,7 @@
  * these Appropriate Legal Notices must retain the display of the "EspoCRM" word.
  ************************************************************************/
 
-namespace Espo\Modules\Smstools\Hooks\Common;
+namespace Espo\Modules\Smstools3\Hooks\Common;
 
 use Espo\ORM\Entity;
 use Espo\ORM\EntityManager;
