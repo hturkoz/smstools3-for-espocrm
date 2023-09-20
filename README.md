@@ -4,7 +4,10 @@
 # important
  For expert only
 
-# todo
+# features
+ Send sms from any stream with '#sms hello espocrm' (key is '#sms')
+
+# todo before work
  - mount --bind /var/spool/sms /var/www/html/public_html/data/smsd
  - need create a job in admin section of espocrm 
  - add www-data to smsd group with 'sudo useradd –G smsd www-data'
