@@ -6,7 +6,7 @@
 
 # features
  - Send sms from any stream with '#sms hello espocrm' (key is '#sms')
- - Receive sms to a 'entity' (need re-working)
+ - Receive sms to a 'entity' (need adapted actually)
 
 # todo before work
  - path in integration setting : data/smsd 
