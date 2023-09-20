@@ -16,3 +16,6 @@
 
 # requirements
  - a linux with smstools3 installed and working
+
+# licences
+ - [see espocrm licence](https://github.com/espocrm/espocrm)
