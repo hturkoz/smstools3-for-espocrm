@@ -19,7 +19,8 @@
  - ..
 
 # requirements
- - [SMS Server Tools 3](http://smstools3.kekekasvi.com) is a SMS Gateway software which can send and receive short messages through GSM modems and mobile phones.
+ - [SMS Server Tools 3](http://smstools3.kekekasvi.com) 'smstools' is a SMS Gateway software which can send and receive short messages through GSM modems and mobile phones.
+ - smstools3 on a linux with a compatible modem working.
 
 # license
  - [see EspoCRM licence](https://github.com/espocrm/espocrm)
